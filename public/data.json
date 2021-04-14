@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "country": "Korea",
+      "votes": 55
+    },
+    {
+      "country": "North-korea",
+      "votes": 47
+    },
+    {
+      "country": "America",
+      "votes": 4
+    },
+    {
+      "country": "Australia",
+      "votes": 30
+    },
+    {
+      "country": "Bhutan",
+      "votes": 44
+    },
+    {
+      "country": "British",
+      "votes": 22
+    },
+    {
+      "country": "China",
+      "votes": 15
+    },
+    {
+      "country": "Croatia",
+      "votes": 74
+    },
+    {
+      "country": "Canada",
+      "votes": 16
+    },
+    {
+      "country": "Fiji",
+      "votes": 42
+    }
+  ]
+}
